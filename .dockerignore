@@ -1,0 +1,12 @@
+venv
+
+Dockerfile
+docker-compose.yml
+
+.gitignore
+
+.git
+
+.idea
+
+.vscode
